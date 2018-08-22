@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import UsersList from './UsersList';
 import './App.css';
 
-const allUsers = ['Michal', 'Kasia', 'Jacek', 'Marta', 'Tomek', 'Ania', 'Adonis'];
+const allUsers = ['Michal', 'Kasia', 'Jacek', 'Marta', 'Tomek', 'Ania', 'Adonis', 'Marek'];
 
 class App extends Component {
   constructor(){
